@@ -1,0 +1,6 @@
+balloonport	17
+closed	1213
+heliport	8717
+large_airport	560
+medium_airport	4523
+seaplane_base	895
